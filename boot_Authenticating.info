@@ -1,0 +1,2 @@
+#include <stdio.h>
+int main(){printf("Boot module: Authenticating root session\n");return 0;}

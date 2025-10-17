@@ -1,0 +1,2 @@
+print('Initializing module: Compiling telemetry cache')
+print('Status: ACTIVE')

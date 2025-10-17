@@ -1,0 +1,2 @@
+print('Initializing module: Initializing D-Red memory subsystems')
+print('Status: ACTIVE')

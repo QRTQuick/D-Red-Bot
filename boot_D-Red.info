@@ -1,0 +1,2 @@
+print('Initializing module: D-Red System Online at /dev/redkernel')
+print('Status: ACTIVE')

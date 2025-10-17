@@ -1,0 +1,2 @@
+#include <stdio.h>
+int main(){printf("Boot module: Verifying memory integrity\n");return 0;}
