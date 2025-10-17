@@ -1,2 +1,0 @@
-#include <stdio.h>
-int main(){printf("Boot module: Scanning heap allocations\n");return 0;}

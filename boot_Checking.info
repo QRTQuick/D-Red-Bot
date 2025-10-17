@@ -1,2 +1,0 @@
-#include <stdio.h>
-int main(){printf("Boot module: Checking CPU thermal layer\n");return 0;}

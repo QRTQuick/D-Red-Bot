@@ -1,2 +1,0 @@
-print('Initializing module: Boot sequence verification complete')
-print('Status: ACTIVE')

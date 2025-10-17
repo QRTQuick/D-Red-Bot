@@ -1,2 +1,0 @@
-#include <stdio.h>
-int main(){printf("Boot module: Linking /dev/mem -> /dred/memory\n");return 0;}
